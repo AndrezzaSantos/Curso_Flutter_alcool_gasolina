@@ -1,0 +1,4 @@
+#Sun Apr 17 17:19:00 BRT 2022
+base.0=C\:\\AmbienteTrabalho\\projetos\\flutter\\Curso Jailton Damasceno\\alcool_gasolina\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
